@@ -185,6 +185,8 @@ public class Czytamy {
 
       System.out.println("To jest ta slyna suma o ktorej byla mowa   " + sum);
 
+      System.out.println("Komentarz testuajacy gita   " );
+
      
 
       String str = "GeeksforGeeks:A Computer Science Portal";
